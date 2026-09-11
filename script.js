@@ -56,7 +56,7 @@ function openLightbox(index) {
   title.textContent = item.title;
   tag.textContent = item.category;
   desc.textContent = item.desc;
-  waBtn.href = `https://wa.me/91740692233?text=${encodeURIComponent(item.waText)}`;
+  waBtn.href = `https://wa.me/917406922333?text=${encodeURIComponent(item.waText)}`;
 
   modal.classList.add('active');
   modal.setAttribute('aria-hidden', 'false');
@@ -207,7 +207,7 @@ function handleInquirySubmit(event) {
   }
   message += `\nPlease let me know your package pricing and whether this date is available. Thank you!`;
 
-  const waUrl = `https://wa.me/91740692233?text=${encodeURIComponent(message)}`;
+  const waUrl = `https://wa.me/917406922333?text=${encodeURIComponent(message)}`;
   
   // Open in new tab
   window.open(waUrl, '_blank', 'noopener,noreferrer');
