@@ -2,7 +2,7 @@
 
 A luxury, handcrafted portfolio and client booking website for **Sevanthi Mehandi Arts** — Professional bridal and custom henna designer based in Tumakuru, Karnataka.
 
-Live Repository: [https://github.com/chiranthan-08/HennaSite](https://github.com/chiranthan-08/HennaSite)
+Live Repository: [https://github.com/chiranthan-08/sevanthi-mehandi-arts](https://github.com/chiranthan-08/sevanthi-mehandi-arts)
 
 ---
 
