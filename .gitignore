@@ -1,0 +1,11 @@
+# Deployment & Hosting
+.netlify/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs & temp
+*.log
+scratch/
