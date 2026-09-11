@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hennasite.netlify.app/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Image Indexing for Google Images -->
+    <image:image>
+      <image:loc>https://hennasite.netlify.app/assets/images/artist-sevanthi.jpg</image:loc>
+      <image:title>Sevanthi - Professional Mehandi Artist in Tumakuru Karnataka</image:title>
+      <image:caption>Lead bridal henna artist Sevanthi handcrafted mehandi specialist in Tumakuru and Bengaluru</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hennasite.netlify.app/assets/images/work-1-bridal-mandala.jpg</image:loc>
+      <image:title>Bridal Palm Mandala with Milestone Dates</image:title>
+      <image:caption>Authentic bridal palm mandala mehandi handcrafted by Sevanthi Mehandi Arts</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hennasite.netlify.app/assets/images/work-2-feet-mandala.jpg</image:loc>
+      <image:title>Royal Lotus Feet Mandala Henna Art</image:title>
+      <image:caption>Exquisite bridal feet henna with lotus motifs and ankle symmetry</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hennasite.netlify.app/assets/images/work-3-forearm-art.jpg</image:loc>
+      <image:title>Full Forearm Bridal Floral Jaal with Names</image:title>
+      <image:caption>Detailed bridal forearm henna with personalized couple names and floral jharokha</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hennasite.netlify.app/assets/images/work-4-royal-arabic.jpg</image:loc>
+      <image:title>Mughal Medallion and Calligraphic Arabic Forearm Henna</image:title>
+      <image:caption>Royal Arabic forearm mehandi design with shaded leaf trails and crest work</image:caption>
+    </image:image>
+  </url>
+</urlset>
